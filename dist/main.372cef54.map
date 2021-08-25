@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["demo","document","querySelector","console","log"],"mappings":";AAAA,IAAIA,EAAKC,SAASC,cAAc,SAChCC,QAAQC,IAAIJ","file":"main.372cef54.map","sourceRoot":"..\\src","sourcesContent":["let demo=document.querySelector('#demo')\r\nconsole.log(demo)"]}
